@@ -18,14 +18,13 @@
 - [OP Labs Twitter](https://twitter.com/OPLabsPBC) - Official Twitter page for OP Labs 
 - [Discord](https://discord.com/invite/optimism) - For announcements, help, and socialising
 - [Twitch](https://www.twitch.tv/optimismfnd) - Live streams from the Optimism Foundation
+- [Github](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more)
 
 # Research
 
 # Articles, Papers
 
 # Podcasts, Videos
-
-# Codebases
 
 # Dashboards
 
