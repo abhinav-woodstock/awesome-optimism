@@ -27,6 +27,7 @@
 
 # Articles, Videos, Podcasts
 
+- [Research Note](https://woodstock-research.notion.site/Optimism-105557d5bb1d43a39423e40a49f27585?pvs=4) (Mar '23) - An overview of Optimism's technology, governance, token, roadmap, team, funding, and ecosystem by [Woodstock Fund](https://woodstockfund.com/)
 - [Bedrock vs Nitro](https://norswap.com/bedrock-vs-nitro/) (Oct '22) - An in-depth guide to differences between Optimism Bedrock and Arbitum Nitro by [Norswap](https://twitter.com/norswap)
 - [OP Airdrop Analysis](https://members.delphidigital.io/reports/was-optimisms-airdrop-a-success) (Sep '22) - Delphi Digital's analysis of Optimism's first airdrop
 - [OP Stack Report](https://messari.io/report/scaling-ethereum-with-the-op-stack) (Mar '23) - Messari's report on OP Stack and its adoption
@@ -34,6 +35,12 @@
 - [March L2 Roundup](https://www.theblock.pro/research/march-layer-2-landscape-recap-225079) (Apr '23) - The Block's L2 quarterly report
 
 # Ecosystem Projects
+
+- Velodrome
+- Sonne Finance
+- Beethoven
+- Pika Protocol
+- Metronome
 
 # Job Board
 
