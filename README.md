@@ -5,9 +5,6 @@
     <a href="https://github.com/abhinav-woodstock/awesome-optimism/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhinav-woodstock/awesome-optimism">
     </a>
-    <a href="http://makeapullrequest.com">
-      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
   </p>
 
   <p align="center">A curated list of awesome resources on Optimism.</p>
@@ -119,4 +116,4 @@ Find a gig in the interoperability space!
 
 # License
 
-All files within this repository are licensed under the [MIT License](https://github.com/ethereum-optimism/optimism/blob/master/LICENSE) unless stated otherwise.
+All files within this repository are licensed under the [MIT License](https://github.com/abhinav-woodstock/awesome-optimism/blob/main/LICENSE) unless stated otherwise.
