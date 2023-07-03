@@ -1,24 +1,17 @@
 <div align="center">
-  <img alt="awesome interop logo" src="./assets/cover.jpg" width="500">
-  <h1 align="center">Awesome Interoperability</h1>
+  <img alt="awesome optimism logo" src="./assets/OP.png" width="500">
+  <h1 align="center">Awesome Optimism</h1>
   <p align="center">
-    <a href="https://github.com/sindresorhus/awesome">
-      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-    </a>
-    <a href="#buildstatus">
-      <img alt="build status badge" src="https://github.com/nomad-xyz/awesome-interoperability/workflows/Build/badge.svg">
-    </a>
-    <a href="https://github.com/nomad-xyz/awesome-interoperability/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nomad-xyz/awesome-interoperability">
+    <a href="https://github.com/abhinav-woodstock/awesome-optimism/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhinav-woodstock/awesome-optimism">
     </a>
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
   </p>
 
-  <p align="center">A curated list of awesome interoperability resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome resources on Optimism.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
-
 </div>
 
 # Resources
@@ -126,6 +119,4 @@ Find a gig in the interoperability space!
 
 # License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Nomad.xyz](https://github.com/nomad-xyz) has waived all copyright and related or neighboring rights to this work.
+All files within this repository are licensed under the [MIT License](https://github.com/ethereum-optimism/optimism/blob/master/LICENSE) unless stated otherwise.
