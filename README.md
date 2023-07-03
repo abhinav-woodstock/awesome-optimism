@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="awesome optimism logo" src="./assets/OP.png" width="500">
+  <img alt="awesome optimism logo" src="./assets/OP.png" width="200">
   <h1 align="center">Awesome Optimism</h1>
   <p align="center">
     <a href="https://github.com/abhinav-woodstock/awesome-optimism/graphs/contributors">
