@@ -28,9 +28,9 @@
 
 # Dashboards
 
-- [OP-Analytics](https://github.com/ethereum-optimism/op-analytics) - Comprehensive repository of all OP Mainnet related analytics 
+- [OP-Analytics](https://github.com/ethereum-optimism/op-analytics) - Comprehensive repository of all OP Mainnet related analytics
 
-# Socials
+# Ecosystem Projects
 
 # Job Board
 
