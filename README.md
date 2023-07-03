@@ -21,23 +21,11 @@
 
 # Research
 
-- [Inter-Blockchain Communication Protocol](https://tutorials.cosmos.network/academy/4-ibc/what-is-ibc.html) - The IBC specification used in Cosmos' cross-chain communication protocol
-- [Interlay](https://docs.interlay.io/#/) - Swaps
-- [Ethereum BTC Relay](https://github.com/ethereum/btcrelay) - A BTC relay on Ethereum
-- [Stateless BTC Relay](https://github.com/summa-tx/relays) - An improved stateless BTC relay on Ethereum
-
 # Articles, Papers
-
-- [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8) by Dmitriy Berenzon
 
 # Podcasts, Videos
 
-- [Axelar: Solving Interoperability across Blockchains](https://www.youtube.com/watch?v=m2RF_yWE6xo) - An overview of Axelar
-- [Burning Bridges: The Pitfalls of Multisig Bridges](https://www.youtube.com/watch?v=0L9G1zKjpqA) - What are the common pitfalls of Multisig Bridges
-
 # Codebases
-
-- [Bridge Risk Framework](https://gov.l2beat.com/t/l2bridge-risk-framework/31) - Discussion on L2Beat on creating a Risk Framework for Bridges
 
 # Dashboards
 
@@ -45,26 +33,9 @@
 
 # Socials
 
-- [Geometry presents: Slush, a proposal for Fractal scaling](https://hackmd.io/@kalmanlajko/rkgg9GLG5) - A fractal design of cross-domain bridges between rollups
-- [Zero-Knowledge Proofs in Cross-Chain Communication](https://www.youtube.com/watch?v=6HftDh9mk-8) - A sketch on using Zero-Knowledge proofs for cross-chain communication
-
 # Job Board
 
-Find a gig in the interoperability space!
-
-- [Abacus](https://jobs.lever.co/Abacus/)
-- [Axelar](https://axelar.network/careers)
-- [Connext](https://jobs.connext.network/Connext-Job-Board-d89dc91421794b47ab4a2356495a2a9c)
-- [LayerZero](https://boards.greenhouse.io/layerzerolabs)
-- [Multichain](https://docs.multichain.org/getting-started/careers)
-- [Nomad](https://boards.greenhouse.io/nomad)
-- [Spanning Labs](https://www.spanninglabs.com/#careers)
-- [Wormhole](https://boards.greenhouse.io/wormhole)
-
 # Tools
-
-- [Dora](https://www.ondora.xyz/) - Cross-chain focused block explorer
-- [Foundry](https://getfoundry.sh) - Testing framework that supports cross-chain
 
 # License
 
