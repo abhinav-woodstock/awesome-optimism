@@ -32,15 +32,25 @@
 - [OP Airdrop Analysis](https://members.delphidigital.io/reports/was-optimisms-airdrop-a-success) (Sep '22) - Delphi Digital's analysis of Optimism's first airdrop
 - [OP Stack Report](https://messari.io/report/scaling-ethereum-with-the-op-stack) (Mar '23) - Messari's report on OP Stack and its adoption
 - [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups
-- [March L2 Roundup](https://www.theblock.pro/research/march-layer-2-landscape-recap-225079) (Apr '23) - The Block's L2 quarterly report
 
-# Ecosystem Projects
+# Open Source Contributions
 
+## Clients
+- [OP-Geth]([url](https://github.com/ethereum-optimism/op-geth)) - Official Golang execution layer implementation of Optimism by OP Labs.
+- [Magi](https://github.com/a16z/magi) - An OP Stack rollup client written in Rust, designed by a16z. Read the announcement [here](https://a16zcrypto.com/posts/article/building-magi-a-new-rollup-client-for-optimism/). 
+- [OP-Erigon](https://github.com/testinprod-io/op-erigon) - A fork of Erigon that supports the execution engine of OP stack.
+- [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - A Rust-based full node implementation by [Paradigm](https://github.com/paradigmxyz/reth) currently under development.
+
+## Ecosystem Projects
 - Velodrome
 - Sonne Finance
 - Beethoven
 - Pika Protocol
 - Metronome
+- [Magic Mirror NFT](https://github.com/smartcontracts/opfp) - Mirror NFTs from Ethereum on Optimism (or between any Ethereum-based chains)
+
+## Miscellaneous
+- [Running an Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - A simple guide to run a node for Optimism
 
 # Job Board
 
