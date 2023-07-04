@@ -54,8 +54,6 @@
 
 # Job Board
 
-# Tools
-
 # License
 
 All files within this repository are licensed under the [MIT License](https://github.com/abhinav-woodstock/awesome-optimism/blob/main/LICENSE) unless stated otherwise.
