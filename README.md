@@ -36,7 +36,7 @@
 # Open Source Contributions
 
 ## Clients
-- [OP-Geth]([url](https://github.com/ethereum-optimism/op-geth)) - Official Golang execution layer implementation of Optimism by OP Labs.
+- [OP-Geth](https://github.com/ethereum-optimism/op-geth) - Official Golang execution layer implementation of Optimism by OP Labs.
 - [Magi](https://github.com/a16z/magi) - An OP Stack rollup client written in Rust, designed by a16z. Read the announcement [here](https://a16zcrypto.com/posts/article/building-magi-a-new-rollup-client-for-optimism/). 
 - [OP-Erigon](https://github.com/testinprod-io/op-erigon) - A fork of Erigon that supports the execution engine of OP stack.
 - [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - A Rust-based full node implementation by [Paradigm](https://github.com/paradigmxyz/reth) currently under development.
