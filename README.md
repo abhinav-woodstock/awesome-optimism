@@ -42,11 +42,9 @@
 - [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - A Rust-based full node implementation by [Paradigm](https://github.com/paradigmxyz/reth) currently under development.
 
 ## Ecosystem Projects
-- Velodrome
-- Sonne Finance
-- Beethoven
-- Pika Protocol
-- Metronome
+- [AttestationStation](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/ecosystem/attestation-station) - Contains a public attestations mapping that anyone can write to and read from.
+- [OptiNames](https://github.com/Optinames) - ENS subdomains on Optimism
+- [Tenderly](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/ecosystem/tenderly) - All-in-one development platform for building on Opitmism
 - [Magic Mirror NFT](https://github.com/smartcontracts/opfp) - Mirror NFTs from Ethereum on Optimism (or between any Ethereum-based chains)
 
 ## Miscellaneous
