@@ -49,7 +49,7 @@
 
 ## Miscellaneous
 - [Running an Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - A simple guide to run a node for Optimism
-
+- [GitHub Links](https://github.com/search?q=optimism&type=repositories)
 # Job Board
 
 # License
