@@ -41,6 +41,15 @@
 - [OP-Erigon](https://github.com/testinprod-io/op-erigon) - A fork of Erigon that supports the execution engine of OP stack.
 - [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - A Rust-based full node implementation by [Paradigm](https://github.com/paradigmxyz/reth) currently under development.
 
+## OP Stack
+- Base - Coinbase's L2 deployment for the masses.
+- opBNB - Optimism Rollup deployment on BSC for increased throughput.
+- Conduit - One-click Optimistic Rollup deployment solution.
+- Mina - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
+- Zora - Purpose-built rollup for minting and trading NFTs.
+- Taro - EVM-compatible execution layer built on OP Stack with modular data availability.
+- Kinto - Rollup with KYC measures to onboard financial services onto web3.
+
 ## Ecosystem Projects
 - [AttestationStation](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/ecosystem/attestation-station) - Contains a public attestations mapping that anyone can write to and read from.
 - [OptiNames](https://github.com/Optinames) - ENS subdomains on Optimism
